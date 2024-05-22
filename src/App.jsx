@@ -7,7 +7,7 @@ import CalcProvider from "./Context/CalcContext";
 function App() {
 
   const btnValues = [
-    ['C', '+-', '%', '/'],
+    ['C', '+-', '%', '/'], 
     [7, 8, 9, 'x'],
     [4, 5, 6, '-'],
     [1, 2, 3, '+'],
