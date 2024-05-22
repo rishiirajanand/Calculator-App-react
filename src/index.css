@@ -25,7 +25,8 @@ body{
 }
 
 .screen{
-  height: 4rem;
+  height: 1rem;
+  font-size: 3rem;
   margin-bottom: 4rem;
 }
 
